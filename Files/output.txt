@@ -1,0 +1,2 @@
+Data read from input.txt: hello . 
+Date created Mon Oct 21 2024
